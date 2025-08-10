@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/hpaintola/leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/hpaintola/leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/hpaintola/leetcode/tree/master/1415-students-and-examinations) |
+| [1452-restaurant-growth](https://github.com/hpaintola/leetcode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/hpaintola/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/hpaintola/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/hpaintola/leetcode/tree/master/1664-find-users-with-valid-e-mails) |
